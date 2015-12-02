@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TesteBlank</string>
+    <string name="drawer_open">Abrir Menu</string>
+    <string name="drawer_close">Fechar Menu</string>
+</resources>
